@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1>Hi 👋 My name is Ouail</h1>
 
-<!--
-**OuailT/OuailT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Blockchain Developer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 I'm based in **Sweden, Stockholm**
+
+<!-- - 🔭 I’m currently building **Web3** projects -->
+
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dan-carlton" height="20" width="15" /> You can check out my **[LinkedIn](https://www.linkedin.com/in/nika-khachiashvili)**
+
+- 👨‍💻 You can view my portfolio at ****
+
+- 📫 You can contact me at **tayarthouail@gmail.com**
+
