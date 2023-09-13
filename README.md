@@ -1,6 +1,6 @@
 <h1>Hi 👋 My name is Ouail</h1>
 
-Full Stack Blockchain Developer
+Full Stack Blockchain Developer & Smart contract Auditor
 
 
 - 🌍 I'm based in **Sweden, Stockholm**
