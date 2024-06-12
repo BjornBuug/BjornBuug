@@ -11,5 +11,5 @@ Smart contracts Developer & Smart contract Auditor
 
 - 👨‍💻 You can view my portfolio at ****
 - I am always open to new opportunities and collaborations, so don't hesitate to reach out, even for a simple question.
-- 📫 You can contact me at **tayarthouail@gmail.com**
+- 📫 You can contact me at **ouailtbytes@gmail.com**
 
