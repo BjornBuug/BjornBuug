@@ -13,7 +13,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tayarthou
 ## 💼 Experiences
 
 - **Front End Developer - Freelance**
-- **Full Stack Blockchain Developer - [Rose Law Group](https://www.roselawgroup.com/)**
+- **Full Stack Blockchain Developer - Freelance, [Rose Law Group](https://www.roselawgroup.com/)**
 - **Web3 Security Researcher - [Code4rena](https://code4rena.com/), [Sherlock](https://audits.sherlock.xyz/), [Codehawks](https://www.codehawks.com/), [Rose Law Group](https://www.roselawgroup.com/)**
 
 ## 🛠️ Technologies and Tools I use:
