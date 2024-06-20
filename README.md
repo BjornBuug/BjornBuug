@@ -10,6 +10,8 @@ I am a **Smart Contracts Developer** and **Web3 Security Researcher** based 🌍
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tayarthouail/), [Twitter](https://twitter.com/Bjorn_Bug) or reach out via [Gmail](mailto:ouailtbytes@gmail.com)!
 
+<a href="https://www.linkedin.com/in/tayarthouail/" target="_blank">LinkedIn</a>
+
 ## 💼 Experiences
 
 - **Front End Developer - Freelance**
