@@ -10,13 +10,11 @@ I am a **Smart Contracts Developer** and **Web3 Security Researcher** based 🌍
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tayarthouail/), [Twitter](https://twitter.com/Bjorn_Bug) or reach out via [Gmail](mailto:ouailtbytes@gmail.com)!
 
-<a href="https://www.linkedin.com/in/tayarthouail/" target="_blank">LinkedIn</a>
-
 ## 💼 Experiences
 
 - **Front End Developer - Freelance**
 - **Full Stack Blockchain Developer - Freelance, [Rose Law Group](https://www.roselawgroup.com/)**
-- **Web3 Security Researcher - [Code4rena](https://code4rena.com/), [Sherlock](https://audits.sherlock.xyz/), [Codehawks](https://www.codehawks.com/), [Rose Law Group](https://www.roselawgroup.com/)**
+- **Web3 Security Researcher - [Code4rena Profile](https://code4rena.com/@Bjorn_bug), [Sherlock](https://audits.sherlock.xyz/), [Codehawks](https://www.codehawks.com/), [Rose Law Group](https://www.roselawgroup.com/)**
 
 ## 🛠️ Technologies and Tools I use:
 
