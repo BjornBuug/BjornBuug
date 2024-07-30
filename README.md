@@ -1,6 +1,6 @@
 <h1>Hi 👋 My name is Ouail</h1>
 
-Smart contracts Developer & Web3 Security Researcher
+Smart contract Developer & Web3 Security Researcher
 
 <img alt="Ouail Tayarth" src="./src/smart-banner.png">
 
