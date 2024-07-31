@@ -17,6 +17,24 @@ I've worked on various blockchain projects, from **DeFi to NFTs**, and reviewed 
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tayarthouail/), [Twitter](https://twitter.com/Bjorn_Bug), or reach out via Gmail: ouailtbytes@gmail.com
 
+## 🚀 Featured Projects
+
+Here are some of my best projects that demonstrate my skills in blockchain development and DeFi protocols:
+
+1. [Vaultify Protocol](https://github.com/OuailT/Vaultify_Protocol)
+   - A non-custodial DeFi protocol for securing crypto assets and borrowing stablecoins with 0% interest
+   - Technologies: Solidity, ERC-721, ERC20, Uniswap integration, Foundry
+
+2. [StableFuture Protocol](https://github.com/OuailT/StableFutureProtocol)
+   - A DeFi protocol for providing liquidity in rETH and trading leveraged positions
+   - Technologies: Solidity, Rocket Pool integration, Pyth and Chainlink oracles, Foundry
+
+3. [CollectionBet](https://github.com/OuailT/CollectionBet)
+   - A peer-to-peer marketplace for speculating on NFT collection floor prices
+   - Technologies: Solidity, ERC-721, ERC20, EIP-712 for off-chain orders, Foundry
+
+Each project showcases different aspects of DeFi and blockchain development, from innovative lending mechanisms to NFT speculation and leveraged trading platforms.
+
 ## 💼 Experiences
 
 - **Smart Contract Developer** - Freelance, [Rose Law Group](https://www.roselawgroup.com/)
