@@ -35,6 +35,20 @@ Here are some of my best projects that demonstrate my skills in blockchain devel
 
 Each project showcases different aspects of DeFi and blockchain development, from innovative lending mechanisms to NFT speculation and leveraged trading platforms.
 
+## 🔍 Web3 Security Research
+
+As a Web3 security researcher, I've participated in several audits and contests. Here are some of my notable findings:
+
+### Code4rena Contributions
+
+| Project Name | Severity | Report Link |
+|--------------|----------|-------------|
+| Curves | Meduim Risk | [View Report](https://github.com/code-423n4/2024-01-curves-findings/issues/48) |
+| Astaria | Meduim Risk | [View Report](https://github.com/code-423n4/2023-01-astaria-findings/issues/51) |
+| Ethos | Quality Assurance | [View Report](https://github.com/code-423n4/2023-02-ethos-findings/issues/786) |
+| Neo Tokyo | Quality Assurance | [View Report](https://github.com/code-423n4/2023-03-neotokyo-findings/issues/391) |
+
+
 ## 💼 Experiences
 
 - **Smart Contract Developer** - Freelance, [Rose Law Group](https://www.roselawgroup.com/)
