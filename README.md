@@ -48,6 +48,17 @@ As a Web3 security researcher, I've participated in several audits and contests.
 | Ethos | Quality Assurance | [View Report](https://github.com/code-423n4/2023-02-ethos-findings/issues/786) |
 | Neo Tokyo | Quality Assurance | [View Report](https://github.com/code-423n4/2023-03-neotokyo-findings/issues/391) |
 
+### CodeHawk Contributions
+
+| Project Name | Severity | Report Link |
+|--------------|----------|-------------|
+| The Standard | Meduim Risk | [View Report](https://codehawks.cyfrin.io/c/2023-12-the-standard/s/1306) |
+| The Standard | Meduim Risk | [View Report](https://codehawks.cyfrin.io/c/2023-12-the-standard/s/1276) |
+
+### Private Security Review
+| Project Name | Final Report | 
+|--------------|----------|
+| Weset | [View Report](https://github.com/OuailT/Weset-Audit-Report) |
 
 ## 💼 Experiences
 
