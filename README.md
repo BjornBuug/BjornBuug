@@ -66,7 +66,7 @@ As a Web3 security researcher, I've participated in several audits and contests.
 
 ## 💼 Experiences
 
-- **Smart Contract Developer** - Freelance, [Rose Law Group](https://www.roselawgroup.com/)
+- **Smart Contract Developer** , [Rose Law Group](https://www.roselawgroup.com/)
 - **Web3 Security Researcher** - [Code4rena](https://code4rena.com/@Bjorn_bug) | [Sherlock](https://audits.sherlock.xyz/) | [Codehawks](https://www.codehawks.com/) | [Rose Law Group](https://www.roselawgroup.com/)
 - **Front End Developer** - Freelance
 
