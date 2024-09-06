@@ -15,7 +15,7 @@ I'm a **Smart Contract Developer** and **Web3 Security Researcher** based in ðŸ‡
 
 I've worked on various blockchain projects, from **DeFi to NFTs**, and reviewed multiple DeFi protocols through private audits and public contests on **Code4rena, Sherlock, and CodeHawk**.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tayarthouail/), [Twitter](https://twitter.com/Bjorn_Bug), or reach out via Gmail: ouailtbytes@gmail.com
+Feel free to connect with me on [Twitter](https://twitter.com/Bjorn_Bug), or reach out via Gmail: ouailtbytes@gmail.com
 
 ## ðŸš€ Featured Projects
 
