@@ -2,7 +2,6 @@
 
 Smart contract Developer & Web3 Security Researcher
 
-<img alt="Ouail Tayarth" src="./src/smart-banner.png">
 
 👨🏻‍💻 **About Me:**
 
