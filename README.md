@@ -23,16 +23,20 @@ Here are some of my best projects that demonstrate my skills in blockchain devel
 1. [Vaultify Protocol](https://github.com/OuailT/Vaultify_Protocol)
    - A non-custodial DeFi protocol for securing crypto assets and borrowing stablecoins with 0% interest
    - Technologies: Solidity, ERC-721, ERC20, Uniswap integration, Foundry
-
-2. [StableFuture Protocol](https://github.com/OuailT/StableFutureProtocol)
+   
+2. [UniswapV4 AMM-Orderbook hybrid system](https://github.com/OuailT/UniswapV4Hook_Orderbook/tree/master)
+   - A hybrid system combining UniswapV4's AMM functionality with a traditional orderbook for enhanced liquidity and precision using Hooks
+   - Technologies: Solidity, Foundry, UniswapV4, Orderbook
+     
+3. [StableFuture Protocol](https://github.com/OuailT/StableFutureProtocol)
    - A DeFi protocol for providing liquidity in rETH and trading leveraged positions
    - Technologies: Solidity, Rocket Pool integration, Pyth and Chainlink oracles, Foundry
      
-3. [Title Chain Protocol](https://github.com/OuailT/TitleChain_Decentralized_Property_Ledger)
+4. [Title Chain Protocol](https://github.com/OuailT/TitleChain_Decentralized_Property_Ledger)
    - A decentralized system for real estate tokenization and property title management on the Sepolia Testnet
    - Technologies: Solidity, Foundry, Ether.js, IPFS
 
-4. [CollectionBet](https://github.com/OuailT/CollectionBet)
+5. [CollectionBet](https://github.com/OuailT/CollectionBet)
    - A peer-to-peer marketplace for speculating on NFT collection floor prices
    - Technologies: Solidity, ERC-721, ERC20, EIP-712 for off-chain orders, Foundry
 
