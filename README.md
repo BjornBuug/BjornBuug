@@ -21,7 +21,7 @@ Feel free to connect with me on [Twitter](https://twitter.com/Bjorn_Bug), or rea
 Here are some of my best projects that demonstrate my skills in blockchain development and DeFi protocols:
 
 1. [Vaultify Protocol](https://github.com/OuailT/Vaultify_Protocol)
-   - A non-custodial DeFi protocol for securing crypto assets and borrowing stablecoins with 0% interest
+   - A non-custodial DeFi protocol for securing crypto assets and borrowing stablecoins
    - Technologies: Solidity, ERC-721, ERC20, Uniswap integration, Foundry
    
 2. [UniswapV4 AMM-Orderbook hybrid system](https://github.com/OuailT/UniswapV4Hook_Orderbook/tree/master)
