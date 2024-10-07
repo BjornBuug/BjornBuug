@@ -1,4 +1,4 @@
-<h1>Hi 👋 My name is Ouail, also known as BjornBug on X </h1>
+<h1>Hi 👋 My name is Ouail, also known as BjornBug </h1>
 
 Smart contract Developer & Web3 Security Researcher
 
