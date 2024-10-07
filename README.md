@@ -12,9 +12,10 @@ I'm a **Smart Contract Developer** and **Web3 Security Researcher** based in ðŸ‡
 - Unit testing
 - Security reviews
 
-I've worked on various blockchain projects, from **DeFi to NFTs**, and reviewed multiple DeFi protocols through private audits and public contests on **Code4rena, Sherlock, and CodeHawk**.
+I have professional experience working on various Web3 projects, including oracle integrations (Chainlink, Pyth Network), as well as AMMs, derivatives, and lending and borrowing protocols, I've also reviewed multiple DeFi protocols through private audits and public contests on **Code4rena, Sherlock, and CodeHawk**.
 
-Feel free to connect with me on [Twitter](https://twitter.com/Bjorn_Bug), or reach out via Gmail: ouailtbytes@gmail.com
+A year ago, I fully transitioned to working on DeFi protocols. I'm currently seeking internship or junior position opportunities as a DeFi developer. 
+Feel free to connect and DM me for opportunities on [X](https://x.com/Bjorn_Bug), or reach out via Gmail: ouailtbytes@gmail.com
 
 ## ðŸš€ Featured Projects
 
