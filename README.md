@@ -5,7 +5,7 @@ Smart contract Developer & Web3 Security Researcher
 
 👨🏻‍💻 **About Me:**
 
-I'm a **Smart Contract Developer** and **Web3 Security Researcher** based in 🇸🇪 Sweden. I have 2 years of experience as a **front-end developer** and over 2 years in **blockchain development**, along with a year in **Web3 security research**. I specialize in:
+I'm a **Junior Smart Contract Developer** and **Web3 Security Researcher** based in 🇸🇪 Sweden. I have 2 years of experience as a **full-stack blockchain developer** and 2 years of experience as a **front-end developer**. I specialize in:
 
 - EVM-based technologies
 - Smart contract development
@@ -14,8 +14,11 @@ I'm a **Smart Contract Developer** and **Web3 Security Researcher** based in �
 
 I have professional experience working on various Web3 projects, including oracle integrations (Chainlink, Pyth Network), as well as AMMs, derivatives, and lending and borrowing protocols, I've also reviewed multiple DeFi protocols through private audits and public contests on **Code4rena, Sherlock, and CodeHawk**.
 
-A year ago, I fully transitioned to working on DeFi protocols. I'm currently seeking internship or junior position opportunities as a DeFi developer. 
-Feel free to connect and DM me for opportunities on [X](https://x.com/Bjorn_Bug), or reach out via Gmail: ouailtbytes@gmail.com
+A year ago, I decided to specialize in developing and reviewing complex DeFi protocols. I'm moving away from full-stack blockchain development to focus exclusively on DeFi, aiming to expand my knowledge and expertise in this exciting and innovative field.
+
+I'm currently seeking internship or junior position opportunities as a DeFi developer to continue growing and developing my skills in this area. 
+
+Feel free to connect and DM me for opportunities on [X](https://x.com/Bjorn_Bug), or reach out via Gmail: ouailtbytes@gmail.com even for simple questions :)
 
 ## 🚀 Featured Projects
 
