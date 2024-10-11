@@ -5,7 +5,7 @@ Smart contract Developer & Web3 Security Researcher
 
 👨🏻‍💻 **About Me:**
 
-I'm a **Junior Smart Contract Developer** and **Web3 Security Researcher** based in 🇸🇪 Sweden. I have 2 years of experience as a **full-stack blockchain developer** and 2 years of experience as a **front-end developer**. I specialize in:
+I'm a **Junior DeFi Developer** and **Web3 Security Researcher** based in 🇸🇪 Sweden. I have 2 years of experience as a **full-stack blockchain developer** and 2 years of experience as a **front-end developer**. I specialize in:
 
 - EVM-based technologies
 - Smart contract development
