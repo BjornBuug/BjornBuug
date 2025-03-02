@@ -70,8 +70,8 @@ As a Web3 security researcher, I've participated in several audits and contests.
 
 ## 💼 Experiences
 
-- **DeFi Developer** , [Opyn Protocol](https://www.opyn.co/)
-- **Full-Stack Blockchain Developer** , [Rose Law Group](https://www.roselawgroup.com/)
+- **DeFi Developer** - [Opyn Protocol](https://www.opyn.co/)
+- **Full-Stack Blockchain Developer** - [Rose Law Group](https://www.roselawgroup.com/)
 - **Web3 Security Researcher** - [Code4rena](https://code4rena.com/@Bjorn_bug) | [Sherlock](https://audits.sherlock.xyz/) | [Codehawks](https://www.codehawks.com/) | [Rose Law Group](https://www.roselawgroup.com/)
 - **Front End Developer** - Freelance
 
