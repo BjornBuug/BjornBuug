@@ -83,7 +83,3 @@ As a Web3 security researcher, I've participated in several audits and contests.
 <img src="./src/next-logo.png" alt="typescript" width="40" height="40"/>
 <img src="./src/web3js-logo.png" alt="javascript" width="40" height="40"/>
 </p>
-
-# Most Used Languages:
-
-<p><img width="50%" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=OuailT&theme=neon&hide_border=true&show_icons=true&locale=en&layout=compact" alt="OuailT" /></p>
