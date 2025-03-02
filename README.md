@@ -1,22 +1,19 @@
 <h1>Hi 👋 My name is Ouail, also known as BjornBug </h1>
 
-Smart contract Developer & Web3 Security Researcher
-
-
 👨🏻‍💻 **About Me:**
 
-I'm a **Junior DeFi Developer** and **Web3 Security Researcher** based in 🇸🇪 Sweden. I have 2 years of experience as a **full-stack blockchain developer** and 2 years of experience as a **front-end developer**. I specialize in:
+I'm a **Smart contract Developer** based in 🇸🇪 Sweden. I have 2 years of experience as a **full-stack blockchain developer** and 2 years of experience as a **front-end developer**. I specialize in:
 
 - EVM-based technologies
 - Smart contract development
 - Unit testing
 - Security reviews
 
-I have professional experience working on various Web3 projects, including oracle integrations (Chainlink, Pyth Network), as well as AMMs, derivatives, and lending and borrowing protocols, I've also reviewed multiple DeFi protocols through private audits and public contests on **Code4rena, Sherlock, and CodeHawk**.
+I have professional experience working on various Web3 projects, including oracles integrations (Chainlink, Pyth Network), as well as AMMs, perpetual futures, lending and borrowing protocols, I've also reviewed multiple DeFi protocols through private audits and public contests on **Code4rena, Sherlock, and CodeHawk**.
 
 A year ago, I decided to move away from full-stack blockchain development to specialize in developing and reviewing complex DeFi protocols. I'm now focusing exclusively on DeFi, aiming to expand my knowledge in this exciting and innovative field.
 
-I'm currently seeking **internship** or **junior** position opportunities as a DeFi developer to continue growing and developing my skills in this area. 
+I'm actively looking for new opportunities in the DeFi space to continue growing and developing my skills.
 
 Feel free to connect and DM me for opportunities on [X](https://x.com/Bjorn_Bug), or reach out via Gmail: ouailtbytes@gmail.com even for simple questions :)
 
@@ -24,18 +21,18 @@ Feel free to connect and DM me for opportunities on [X](https://x.com/Bjorn_Bug)
 
 Here are some of my best projects that demonstrate my skills in blockchain development and DeFi protocols:
 
-1. [Vaultify Protocol](https://github.com/OuailT/Vaultify_Protocol)
-   - A non-custodial DeFi protocol for securing crypto assets and borrowing stablecoins
-   - Technologies: Solidity, ERC-721, ERC20, Uniswap integration, Foundry
+1. [StableFuture Protocol](https://github.com/OuailT/StableFutureProtocol)
+   - DeFi protocol enabling perpetual futures trading with liquidity provision and leveraged positions
+   - Technologies: Solidity, Pyth network, Chainlink oracles, Foundry
    
 2. [UniswapV4 AMM-Orderbook hybrid system](https://github.com/OuailT/UniswapV4Hook_Orderbook/tree/master)
    - A hybrid system combining UniswapV4's AMM functionality with a traditional orderbook for enhanced liquidity and precision using Hooks
    - Technologies: Solidity, Foundry, UniswapV4, Orderbook
      
-3. [StableFuture Protocol](https://github.com/OuailT/StableFutureProtocol)
-   - A DeFi protocol for providing liquidity in rETH and trading leveraged positions
-   - Technologies: Solidity, Rocket Pool integration, Pyth and Chainlink oracles, Foundry
-     
+1. [Vaultify Protocol](https://github.com/OuailT/Vaultify_Protocol)
+   - A non-custodial DeFi protocol for securing crypto assets and borrowing stablecoins
+   - Technologies: Solidity, ERC-721, ERC20, Uniswap integration, Foundry
+ 
 4. [Title Chain Protocol](https://github.com/OuailT/TitleChain_Decentralized_Property_Ledger)
    - A decentralized system for real estate tokenization and property title management on the Sepolia Testnet
    - Technologies: Solidity, Foundry, Ether.js, IPFS
@@ -73,7 +70,8 @@ As a Web3 security researcher, I've participated in several audits and contests.
 
 ## 💼 Experiences
 
-- **Smart Contract Developer** , [Rose Law Group](https://www.roselawgroup.com/)
+- **DeFi Developer** , [Opyn Protocol](https://www.opyn.co/)
+- **Full-Stack Blockchain Developer** , [Rose Law Group](https://www.roselawgroup.com/)
 - **Web3 Security Researcher** - [Code4rena](https://code4rena.com/@Bjorn_bug) | [Sherlock](https://audits.sherlock.xyz/) | [Codehawks](https://www.codehawks.com/) | [Rose Law Group](https://www.roselawgroup.com/)
 - **Front End Developer** - Freelance
 
