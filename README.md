@@ -4,7 +4,7 @@
 
 Based in Sweden, I’ve been working professionally in web3 for over three years, initially as a **full-stack blockchain developer** before narrowing my focus to **smart contract DeFi development**. I specialize in EVM-based technologies and have hands-on experience with auditing and building DeFi protocols, from perpetual futures to lending and borrowing protocols.
 
-I've developed funding mechanisms for perpetuals, integrations with external DeFi protocols (Uniswap v3, Chainlink, Pyth Network) for swaps and oracle-based price feeds, integrated into these systems, and prioritized security through intensive unit testing and detailed code reviews. Beyond development, I’ve audited over 10 DeFi protocols, both privately and through public contests on platforms like **Code4rena, Sherlock, and CodeHawk**, spotting and reporting vulnerabilities ranging from low to medium severity.
+I've developed liquidation and funding mechanisms for perpetuals, integrations with external DeFi protocols (Uniswap v3, Chainlink, Pyth Network) for swaps and oracle-based price feeds, integrated into these systems, and prioritized security through intensive unit testing and detailed code reviews. Beyond development, I’ve audited over 10 DeFi protocols, both privately and through public contests on platforms like **Code4rena, Sherlock, and CodeHawk**, spotting and reporting vulnerabilities ranging from low to medium severity.
 
 A year and a half ago, I decided to move away from full-stack blockchain development to specialize in developing and reviewing complex DeFi protocols. I'm now focusing exclusively on DeFi, aiming to expand my knowledge in this exciting and innovative field.
 
